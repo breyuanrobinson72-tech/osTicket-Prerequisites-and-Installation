@@ -85,3 +85,12 @@ Return to the OS-Ticket folder that was created after the zipped file was extrac
 <p>
   In the C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, change ost-sampleconfig to ost-config.php so that the OS-Ticket system can find the file when processing data. You will finally need to install HeidiSQL, create a new session, connect to the session, and create a new database under the name osTicket
 </p>
+<br />
+
+<p>
+  <img width="1365" height="463" alt="OS-Ticket" src="https://github.com/user-attachments/assets/7ac19410-4174-44f8-ac87-76d888a1e9c4" />
+</p>
+<p>
+  Hopefully you didn't forget your password you set up when we set up MySQL. You'll need it to finally log into the OS TICKET model if you done everything right, you'll gain access to the screen above.
+
+</p>
