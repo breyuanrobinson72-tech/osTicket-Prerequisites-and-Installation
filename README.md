@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="zipfolder.PNG" 
+<<img width="500" height="314" alt="zipfolder" src="https://github.com/user-attachments/assets/384e2768-484d-4351-b19a-2ec9b97fe698" />
+ 
 " />
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
