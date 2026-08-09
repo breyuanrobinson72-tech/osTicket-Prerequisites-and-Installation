@@ -77,3 +77,11 @@ Return to the OS-Ticket folder that was created after the zipped file was extrac
   You should now have almost everything you need to get OS-Ticket up and running; however, there are a few configurations that need to be made for the system to run. You need to go back into IIS and PHP Manager, next You'll want to click Enable and Disable Extensions under the PHP Manager tab. Enable PHP_IMAP.dII, PHP_intl.dII, and PHP_opcache.dII. Stop and start IIS once again to make these updates and browse the OS-Ticket site from inside IIS
 
 </p>
+<br />
+
+<p>
+  <img width="699" height="344" alt="HEidi" src="https://github.com/user-attachments/assets/fd91794b-e61d-4c90-a842-c62fc3dd167a" />
+</p>
+<p>
+  In the C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, change ost-sampleconfig to ost-config.php so that the OS-Ticket system can find the file when processing data. You will finally need to install HeidiSQL, create a new session, connect to the session, and create a new database under the name osTicket
+</p>
