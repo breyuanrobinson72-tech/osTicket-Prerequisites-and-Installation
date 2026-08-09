@@ -65,6 +65,15 @@ Return to the OS-Ticket folder that was created after the zipped file was extrac
   <img width="617" height="618" alt="CGI" src="https://github.com/user-attachments/assets/94e54011-4a94-45ea-a24c-dda28278a697" />
 </p>
 <p>
-  In the Windows tab, you should be able to find the Internet Information Services, but by typing IIS, you'll want to open this as an admin. Once inside, open the PHP Manager. Register a new PHP and use the PHP CGI file found in the PHP folder we created with the extracted data in it. Run the program on PHP CGI
+  In the Windows tab, you should be able to find the Internet Information Services, but by typing IIS, you'll want to open this as an admin. Once inside, open the PHP Manager. Register a new PHP and use the PHP CGI file found in the PHP folder we created with the extracted data in it. Run the program on PHP CGI. You will need to start and stop the IIS to update the system.
+
+</p>
+<br />
+
+<p>
+<img width="1359" height="693" alt="PHP" src="https://github.com/user-attachments/assets/c89f9a2a-7188-481b-a03c-fe6ea05e3221" />  
+</p>
+<p>
+  You should now have almost everything you need to get OS-Ticket up and running; however, there are a few configurations that need to be made for the system to run. You need to go back into IIS and PHP Manager, next You'll want to click Enable and Disable Extensions under the PHP Manager tab. Enable PHP_IMAP.dII, PHP_intl.dII, and PHP_opcache.dII. Stop and start IIS once again to make these updates and browse the OS-Ticket site from inside IIS
 
 </p>
