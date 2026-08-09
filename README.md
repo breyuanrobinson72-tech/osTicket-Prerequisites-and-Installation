@@ -59,3 +59,12 @@ Return to the OS-Ticket folder that was created after the zipped file was extrac
 
 </p>
 <br />
+
+<p>
+  <img width="924" height="408" alt="IIS" src="https://github.com/user-attachments/assets/320c2c91-d891-412d-afde-b95729cf08f0" />
+  <img width="617" height="618" alt="CGI" src="https://github.com/user-attachments/assets/94e54011-4a94-45ea-a24c-dda28278a697" />
+</p>
+<p>
+  In the Windows tab, you should be able to find the Internet Information Services, but by typing IIS, you'll want to open this as an admin. Once inside, open the PHP Manager. Register a new PHP and use the PHP CGI file found in the PHP folder we created with the extracted data in it. Run the program on PHP CGI
+
+</p>
