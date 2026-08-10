@@ -55,7 +55,7 @@ Even though we don't plan to uninstall any programs, you should open the Control
 <img width="832" height="393" alt="osticketfolder" src="https://github.com/user-attachments/assets/95a9d528-ca11-457a-b035-81104c03a12b" />
 </p>
 <p>
-Return to the OS-Ticket folder that was created after the zipped file was extracted. Here, you want to extract the data from the PHP manager file and the rewrite module file. Inside the same folder, there will be a zipped PHP file you'll want to create your own PHP folder on the \\:C drive, then you can extract the data from the PHP zipped folder and place it there. You'll finally need to open MySQL and install it with a typical setup option and standard configuration. Create a password you'll remember; it will be important later.
+Return to the OS-Ticket folder that was created after the zipped file was extracted. Here, you want to extract the data from the PHP manager file and the rewrite file. Inside the same folder, there will be a zipped PHP file you'll want to create your own PHP folder on the \\:C drive, then you can extract the data from the PHP zipped folder and place it there. You'll finally need to open MySQL and install it with a typical setup option and standard configuration. Create a password you'll remember; it will be important later.
 
 </p>
 <br />
